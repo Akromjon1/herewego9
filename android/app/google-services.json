@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497175274271",
+    "project_id": "hererwego-21b4d",
+    "storage_bucket": "hererwego-21b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497175274271:android:e5039d644f8611e57dc62a",
+        "android_client_info": {
+          "package_name": "com.hero.hererwego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497175274271-egjojemkmtl6bbu3dogpa0htfnit276l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxw-Os78U7vBb1cClcBp38BsYpVqvFRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497175274271-egjojemkmtl6bbu3dogpa0htfnit276l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
